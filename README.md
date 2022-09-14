@@ -103,3 +103,4 @@ RampingOpt, optimization for ramping inefficiency by using FrameIF.
 Please cite the following paper if this work helps your research.
 
 Hanli  Wang, Bo Xiao, Jun Wu, Sam Kwong, and C.-C. Jay Kuo, A Collaborative  Scheduling-based Parallel Solution for HEVC Encoding on Multicore  Platforms, *IEEE Transactions on Multimedia*, vol. 20, no. 11, pp. 2935-2948, Nov. 2018.
+
